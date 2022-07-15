@@ -1,5 +1,5 @@
 <h1 align=center> 👾 TicTacToe-Game 👾 </h1>
-<h6 align=center> Using Minimax Algorithm and OpenCV + Python </h6>
+<h6 align=center> A terminal application to play Tic Tac Toe  </h6>
 
 ## Table of Content 🤖
 
@@ -13,11 +13,11 @@
 
 This repository contains the TicTacToe game files. **TicTacToe Game (3x3) (9 Blocks)**
 
-This simple game comes with an elegant user interface and game options using mouse & keyboard stokes. Users can play Player1 vs Player2 (Multiplayer) game.
+This simple game comes with an elegant user interface and game options keyboard 1-9 stokes. Users can play Player1 vs Player2 (Multiplayer) game.
 
 ## Structure of the application
 
-- Game.py with core functionality in Python and terminal application implemented OpenCV-Python
+- Main.py with core functionality in Python and terminal application implemented 
 
 ## Features : 💯
 
@@ -27,7 +27,7 @@ This simple game comes with an elegant user interface and game options using mou
 
 ### Run the Game 💫
 
-Open command prompt and excute command $python Game.py
+Open command prompt and excute command $main.py
 
 ## Like the repo?? 🥰 💓 💜
 
