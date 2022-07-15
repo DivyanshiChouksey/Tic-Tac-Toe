@@ -1,5 +1,5 @@
 <h1 align=center> 👾 TicTacToe-Game 👾 </h1>
-<h6 align=center> A terminal application to play Tic Tac Toe  </h6>
+<h6 align=center> A Terminal Application To Play Tic Tac Toe  </h6>
 
 ## Table of Content 🤖
 
